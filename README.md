@@ -24,7 +24,7 @@ begin
 end;
 ```
 
-###Process Row of <Table>
+### Process Row of <Table>
 - Automatic Row processing 
 - Provide ID
 
@@ -34,6 +34,10 @@ end;
 
 ### close dialog
 - when REQUST in CREATE SAVE DELETE
+
+### Dialog Closed
+- Dymaic action on region to refresh
+  - event: Dialog closed
 
 ###Test
 
